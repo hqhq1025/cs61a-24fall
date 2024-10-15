@@ -164,6 +164,8 @@ def next_larger_dollar(bill):
         return 50
     elif bill == 50:
         return 100
+    else:
+        return None
 
 def count_dollars_upward(total):
     """Return the number of ways to make change using bills.
@@ -186,7 +188,13 @@ def count_dollars_upward(total):
     True
     """
     "*** YOUR CODE HERE ***"
-
+    def rec(bill,dollar):
+        if bill == 0:
+            return 1
+        if bill < 0 or dollar == None:
+            return 0
+        return rec(bill - dollar, dollar) + rec(bill, next_larger_dollar(dollar))
+    return rec(total,1)
 
 def print_move(origin, destination):
     """Print instructions to move a disk."""
