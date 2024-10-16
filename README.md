@@ -5,11 +5,12 @@
 ### 已完成的作业:
 - HW01
 - HW02
-- HW03 (部分完成)
+- HW03
 
 ### 已完成的实验:
 - Lab01
 - Lab02
+- Lab03
 
 ### 项目进度:
 - Hog 项目 (完成第一部分)
@@ -19,11 +20,12 @@
 ### Completed Homework:
 - HW01
 - HW02
-- HW03 (partially completed)
+- HW03
 
 ### Completed Labs:
 - Lab01
 - Lab02
+- Lab03
 
 ### Project Progress:
 - Hog Project (Phase 1 completed)
