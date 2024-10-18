@@ -334,6 +334,8 @@ def boar_strategy(score, opponent_score, threshold=11, num_rolls=6):
 def sus_strategy(score, opponent_score, threshold=11, num_rolls=6):
     """This strategy returns 0 dice when your score would increase by at least threshold."""
     # BEGIN PROBLEM 11
+    if abs(score - sus_update(0,score,opponent_score,dice=six_sided)) >= threshold:    #注意这里调用sus中的 numroll 应该是0
+        return 0
     return num_rolls  # Remove this line once implemented.
     # END PROBLEM 11
 
