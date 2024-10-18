@@ -271,7 +271,15 @@ def max_scoring_num_rolls(dice=six_sided, times_called=1000):
     """
     # BEGIN PROBLEM 9
     "*** YOUR CODE HERE ***"
-    
+    max = 0
+    index = 0
+    avrg = make_averaged(roll_dice,times_called)    #易错点！！ 错了好几次了！！ 对于每次调用时结果不一的函数注意提前存储
+    for i in range(1,11):
+        current= avrg(i,dice)   #这里也一样
+        if current > max:
+            max = current
+            index = i
+    return index
     # END PROBLEM 9
 
 
