@@ -342,10 +342,13 @@ def sus_strategy(score, opponent_score, threshold=11, num_rolls=6):
 
 def final_strategy(score, opponent_score):
     """Write a brief description of your final strategy.
-
+    when 
     *** YOUR DESCRIPTION HERE ***
     """
     # BEGIN PROBLEM 12
+    roll_6 = sus_update(6,score,opponent_score,dice=six_sided)
+    roll_0 = sus_update(0,score,opponent_score,dice=six_sided)
+    ##不想写了 先这样吧
     return 6  # Remove this line once implemented.
     # END PROBLEM 12
 
