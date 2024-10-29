@@ -11,9 +11,11 @@
 - Lab01
 - Lab02
 - Lab03
+- Lab04
 
 ### 项目进度:
-- Hog 项目 (完成第一部分)
+- Hog 
+- Cat (完成第一部分)
 
 ## English Version
 
@@ -26,10 +28,11 @@
 - Lab01
 - Lab02
 - Lab03
+- Lab04
 
 ### Project Progress:
-- Hog Project (Phase 1 completed)
-
+- Hog
+- Cats （Phase 1 finished）
 ---
 
 注意: 本README文件反映了截至最后更新时的课程进度。请随时更新此文件以反映最新的完成情况。
