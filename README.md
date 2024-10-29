@@ -6,6 +6,7 @@
 - HW01
 - HW02
 - HW03
+- HW04
 
 ### 已完成的实验:
 - Lab01
@@ -23,6 +24,7 @@
 - HW01
 - HW02
 - HW03
+- HW04
 
 ### Completed Labs:
 - Lab01
