@@ -19,6 +19,7 @@
 ### 项目进度:
 - Hog 
 - Cat (完成第一部分)
+- Ants（完成第一部分）
 
 ## English Version
 
@@ -39,6 +40,7 @@
 ### Project Progress:
 - Hog
 - Cats （Phase 1 finished）
+- Ants (Phase 1 finished)
 ---
 
 注意: 本README文件反映了截至最后更新时的课程进度。请随时更新此文件以反映最新的完成情况。
