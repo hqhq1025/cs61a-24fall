@@ -18,6 +18,7 @@
 - Lab05(Except OQ)
 - Lab06
 - Lab07
+- Lab08
 
 ### 项目进度:
 - Hog 
@@ -42,6 +43,7 @@
 - Lab05(Except OQ)
 - Lab06
 - Lab07
+- Lab08
 
 ### Project Progress:
 - Hog
