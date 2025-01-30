@@ -9,6 +9,8 @@
 - HW04
 - HW05
 - HW06
+- HW07
+- HW08
 
 ### 已完成的实验:
 - Lab01
@@ -20,6 +22,7 @@
 - Lab07
 - Lab08
 - Lab09
+- Lab10
 
 ### 项目进度:
 - Hog 
@@ -35,6 +38,8 @@
 - HW04
 - HW05
 - HW06
+- HW07
+- HW08
 
 ### Completed Labs:
 - Lab01
@@ -46,6 +51,7 @@
 - Lab07
 - Lab08
 - Lab09
+- Lab10
 
 ### Project Progress:
 - Hog
