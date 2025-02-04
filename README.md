@@ -28,6 +28,7 @@
 - Hog 
 - Cat (完成第一部分)
 - Ants（除了 EC）
+- Scheme
 
 ## English Version
 
@@ -57,6 +58,7 @@
 - Hog
 - Cats （Phase 1 finished）
 - Ants (Except EC)
+- Scheme
 ---
 
 注意: 本README文件反映了截至最后更新时的课程进度。请随时更新此文件以反映最新的完成情况。
