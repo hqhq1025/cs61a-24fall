@@ -11,6 +11,7 @@
 - HW06
 - HW07
 - HW08
+- HW09
 
 ### 已完成的实验:
 - Lab01
@@ -41,6 +42,7 @@
 - HW06
 - HW07
 - HW08
+- HW09
 
 ### Completed Labs:
 - Lab01
